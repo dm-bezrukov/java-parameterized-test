@@ -1,0 +1,7 @@
+age, country, result
+17, Russia, false
+18, Russia, true
+19, Russia, true
+20, USA, false
+21, USA, true
+22, USA, true
